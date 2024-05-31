@@ -32,4 +32,3 @@ This simple contact app was created to demonstrate the integration of Firebase F
   <img src="/img_2.png" width="250"  alt=""/>
 </p>
 
-hi
