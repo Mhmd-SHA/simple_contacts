@@ -24,6 +24,5 @@ This simple contact app was created to demonstrate the integration of Firebase F
 ![Screenshot 2](img_1.png)
 ![Screenshot 3](img_2.png)
 
-<div style="width:60px ; height:60px">
+
 <img src="img.png" width="200"/>
-</div>
