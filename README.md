@@ -20,7 +20,7 @@ This simple contact app was created to demonstrate the integration of Firebase F
 
 ## Screenshots
 
-![Screenshot 1](img.png)
-![Screenshot 2](img_1.png)
-![Screenshot 3](img_2.png)
+![Screenshot 1](img.png)    ![Screenshot 2](img_1.png)   ![Screenshot 3](img_2.png)
+
+
 
