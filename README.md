@@ -26,14 +26,8 @@ This simple contact app was created to demonstrate the integration of Firebase F
 
 [//]: # (![Screenshot 3]&#40;img_2.png&#41;)
 
-
-<img src="img.png" width=250/>
-<img src="img_1.png" width=250/>
-<img src="img_2.png" width=250/>
-
-
 <p float="left">
-  <img src="/img.png" width="100" />
-  <img src="/img_1.png" width="100" /> 
-  <img src="/img_2.png" width="100" />
+  <img src="/img.png" width="200" />
+  <img src="/img_1.png" width="200" /> 
+  <img src="/img_2.png" width="200" />
 </p>
