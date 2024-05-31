@@ -22,5 +22,8 @@ This simple contact app was created to demonstrate the integration of Firebase F
 
 ![Screenshot 1](img.png)![Screenshot 2](img_1.png)![Screenshot 3](img_2.png)
 
+![Screenshot 1 (resized)](<https://github.com/username/simple_contacts/raw/main/img.png?width=500>)
+![Screenshot 2 (resized)](<https://github.com/username/simple_contacts/raw/main/img_1.png?width=500>)
+![Screenshot 3 (resized)](<https://github.com/username/simple_contacts/raw/main/img_2.png?width=500>)
 
 
