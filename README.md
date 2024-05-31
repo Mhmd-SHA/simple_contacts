@@ -20,9 +20,13 @@ This simple contact app was created to demonstrate the integration of Firebase F
 
 ## Screenshots
 
-![Screenshot 1](img.png)
-![Screenshot 2](img_1.png)
-![Screenshot 3](img_2.png)
+[//]: # (![Screenshot 1]&#40;img.png&#41;)
+
+[//]: # (![Screenshot 2]&#40;img_1.png&#41;)
+
+[//]: # (![Screenshot 3]&#40;img_2.png&#41;)
 
 
-<img src="img.png" width="200"/>
+<img src="img.png" width=250/>
+<img src="img_1.png" width=250/>
+<img src="img_2.png" width=250/>
