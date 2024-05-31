@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18615229009",
+    "project_id": "crud-cffaf",
+    "storage_bucket": "crud-cffaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18615229009:android:225840b4c19a6397a03670",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjx09WRMALlpKmQcResrq_3HGdGWrA2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18615229009:android:19c878e566db9821a03670",
+        "android_client_info": {
+          "package_name": "com.example.simple_contacts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjx09WRMALlpKmQcResrq_3HGdGWrA2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
